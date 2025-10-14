@@ -1,4 +1,4 @@
-# Hi👋, I'm Martin
+# Hi 👋, I'm Martin
 
 Welcome to my GitHub. I'm passionate about technology, data and problem-solving.
 
@@ -8,9 +8,17 @@ Welcome to my GitHub. I'm passionate about technology, data and problem-solving.
 - 📚 Currently Learning: Fullstack Engineering
 - 📍Location: Mexico
 
+## Skilss & Technologies
+
+- Languages: JavaScript
+- Databases: MysQL, PostreSQL
+- Finance: Accounting, Management, Finantial Reporting, Budgeting, Income Statements and Data Analysis
+- Tools: GitHub, Git
+
 ## Get in Touch
 
-- 𝕏 [x](https://x.com/paezjmv)
+- 𝕏 [@paezjmv](https://x.com/paezjmv)
+- 📧 Email: <paez@pm.me>
 <!--
 **paezjmv/paezjmv** is a ✨ _special_ ✨ repository because its `README.md` (this file) 
 appears on your GitHub profile.
