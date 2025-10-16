@@ -25,9 +25,9 @@ Welcome to my GitHub. I'm passionate about technology, data and problem-solving.
 
 <!--END_SECTION:activity-->
 
-<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:Start-->
 
-<!--RECENT_ACTIVITY:last_update_end-->
+<!--RECENT_ACTIVITY:last_update-->
 
 <!--
 **paezjmv/paezjmv** is a ✨ _special_ ✨ repository because its `README.md` (this file) 
