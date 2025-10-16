@@ -19,6 +19,16 @@ Welcome to my GitHub. I'm passionate about technology, data and problem-solving.
 
 - 𝕏 [@paezjmv](https://x.com/paezjmv)
 - 📧 Email: <paez@pm.me>
+
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+<!--RECENT_ACTIVITY:last_update-->
+
+<!--RECENT_ACTIVITY:last_update_end-->
+
 <!--
 **paezjmv/paezjmv** is a ✨ _special_ ✨ repository because its `README.md` (this file) 
 appears on your GitHub profile.
