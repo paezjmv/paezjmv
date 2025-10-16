@@ -22,11 +22,9 @@ Welcome to my GitHub. I'm passionate about technology, data and problem-solving.
 
 ### :zap: Actividad reciente
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:Start-->
-
 <!--RECENT_ACTIVITY:last_update-->
 
 <!--
