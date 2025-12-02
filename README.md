@@ -25,14 +25,14 @@ Welcome to my GitHub. I'm passionate about technology, data and problem-solving.
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [paezjmv/my-store-auth](https://github.com/paezjmv/my-store-auth) from [paezjmv/my-store-auth](https://github.com/paezjmv/my-store-auth)<br>
+1. 🔱 Forked [paezjmv/my-store-auth](https://github.com/paezjmv/my-store-auth) from [platzi/curso-nodejs-auth](https://github.com/platzi/curso-nodejs-auth)<br>
 2. ⬆️ Pushed undefined commit(s) to [paezjmv/curso-react-practico2023](https://github.com/paezjmv/curso-react-practico2023)<br>
 3. ⬆️ Pushed undefined commit(s) to [paezjmv/curso-react-practico2023](https://github.com/paezjmv/curso-react-practico2023)<br>
 4. ⬆️ Pushed undefined commit(s) to [paezjmv/curso-react-practico2023](https://github.com/paezjmv/curso-react-practico2023)<br>
 5. ⬆️ Pushed undefined commit(s) to [paezjmv/curso-react-practico2023](https://github.com/paezjmv/curso-react-practico2023)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 1st, 2025, 1:41:46 PM
+Last Updated: Tuesday, December 2nd, 2025, 2:05:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--
